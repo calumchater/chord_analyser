@@ -1,0 +1,3 @@
+chord-extractor @ git+https://github.com/ohollo/chord-extractor
+numpy
+pytube
